@@ -8,6 +8,14 @@ Follow the progress [here](https://blog.amorgan.xyz/tag_gsoc-2017.html)!
 
 ---
 
+## Install
+
+Simply execute:
+
+```
+sudo make install
+```
+
 ## Notes
 
 With this extension installed, Nautilus will spit out the following error over and over again:
